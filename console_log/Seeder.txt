@@ -1,0 +1,45 @@
+파일명: test.png
+크기: 241542 bytes
+청크 24개 생성됨
+파일 송신--> 000022.part Socket[addr=/127.0.0.1,port=12422,localport=9000]
+상태확인 및 다른 서버 찾기...
+Download Thread-3 종료
+상태확인 및 다른 서버 찾기...
+Download Thread-2 종료
+상태확인 및 다른 서버 찾기...
+Download Thread-4 종료
+File download completed!
+파일 송신--> 000002.part Socket[addr=/127.0.0.1,port=12422,localport=9000]
+파일 송신--> 000021.part Socket[addr=/127.0.0.1,port=12422,localport=9000]
+파일 송신--> 000003.part Socket[addr=/127.0.0.1,port=12420,localport=9000]
+파일 송신--> 000015.part Socket[addr=/127.0.0.1,port=12420,localport=9000]
+파일 송신--> 000014.part Socket[addr=/127.0.0.1,port=12420,localport=9000]
+파일 송신--> 000023.part Socket[addr=/127.0.0.1,port=12427,localport=9000]
+파일 송신--> 000016.part Socket[addr=/127.0.0.1,port=12427,localport=9000]
+파일 송신--> 000003.part Socket[addr=/127.0.0.1,port=12427,localport=9000]
+파일 송신--> 000007.part Socket[addr=/127.0.0.1,port=12439,localport=9000]
+파일 송신--> 000006.part Socket[addr=/127.0.0.1,port=12439,localport=9000]
+파일 송신--> 000009.part Socket[addr=/127.0.0.1,port=12439,localport=9000]
+파일 송신--> 000004.part Socket[addr=/127.0.0.1,port=12444,localport=9000]
+파일 송신--> 000018.part Socket[addr=/127.0.0.1,port=12444,localport=9000]
+파일 송신--> 000001.part Socket[addr=/127.0.0.1,port=12444,localport=9000]
+파일 송신--> 000012.part Socket[addr=/127.0.0.1,port=12453,localport=9000]
+파일 송신--> 000013.part Socket[addr=/127.0.0.1,port=12453,localport=9000]
+파일 송신--> 000010.part Socket[addr=/127.0.0.1,port=12453,localport=9000]
+파일 송신--> 000008.part Socket[addr=/127.0.0.1,port=12457,localport=9000]
+파일 송신--> 000005.part Socket[addr=/127.0.0.1,port=12457,localport=9000]
+파일 송신--> 000019.part Socket[addr=/127.0.0.1,port=12457,localport=9000]
+파일 송신--> 000017.part Socket[addr=/127.0.0.1,port=12460,localport=9000]
+파일 송신--> 000004.part Socket[addr=/127.0.0.1,port=12460,localport=9000]
+파일 송신--> 000000.part Socket[addr=/127.0.0.1,port=12460,localport=9000]
+파일 송신--> 000002.part Socket[addr=/127.0.0.1,port=12464,localport=9000]
+파일 송신--> 000008.part Socket[addr=/127.0.0.1,port=12464,localport=9000]
+파일 송신--> 000005.part Socket[addr=/127.0.0.1,port=12464,localport=9000]
+파일 송신--> 000017.part Socket[addr=/127.0.0.1,port=12470,localport=9000]
+파일 송신--> 000010.part Socket[addr=/127.0.0.1,port=12470,localport=9000]
+파일 송신--> 000000.part Socket[addr=/127.0.0.1,port=12470,localport=9000]
+파일 송신--> 000020.part Socket[addr=/127.0.0.1,port=12473,localport=9000]
+파일 송신--> 000011.part Socket[addr=/127.0.0.1,port=12473,localport=9000]
+파일 송신--> 000020.part Socket[addr=/127.0.0.1,port=12500,localport=9000]
+파일 송신--> 000011.part Socket[addr=/127.0.0.1,port=12500,localport=9000]
+파일 송신--> 000020.part Socket[addr=/127.0.0.1,port=12504,localport=9000]

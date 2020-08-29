@@ -1,0 +1,88 @@
+파일 수신<-- 000022.part Socket[addr=/127.0.0.1,port=9000,localport=12422]
+파일 송신--> 000022.part Socket[addr=/127.0.0.1,port=12416,localport=9002]
+파일 수신<-- 000002.part Socket[addr=/127.0.0.1,port=9000,localport=12422]
+파일 송신--> 000002.part Socket[addr=/127.0.0.1,port=12417,localport=9002]
+2 / 24
+파일 수신<-- 000021.part Socket[addr=/127.0.0.1,port=9000,localport=12422]
+파일 수신<-- 000003.part Socket[addr=/127.0.0.1,port=9000,localport=12420]
+파일 송신--> 000021.part Socket[addr=/127.0.0.1,port=12430,localport=9002]
+4 / 24
+파일 수신<-- 000015.part Socket[addr=/127.0.0.1,port=9000,localport=12420]
+파일 송신--> 000003.part Socket[addr=/127.0.0.1,port=12430,localport=9002]
+상태확인 및 다른 서버 찾기...
+5 / 24
+파일 수신<-- 000014.part Socket[addr=/127.0.0.1,port=9000,localport=12420]
+6 / 24
+6 / 24
+파일 송신--> 000015.part Socket[addr=/127.0.0.1,port=12436,localport=9002]
+6 / 24
+6 / 24
+파일 송신--> 000014.part Socket[addr=/127.0.0.1,port=12436,localport=9002]
+6 / 24
+6 / 24
+7 / 24
+파일 수신<-- 000016.part Socket[addr=/127.0.0.1,port=9003,localport=12454]
+7 / 24
+7 / 24
+파일 송신--> 000015.part Socket[addr=/127.0.0.1,port=12437,localport=9002]
+파일 수신<-- 000023.part Socket[addr=/127.0.0.1,port=9003,localport=12454]
+파일 송신--> 000014.part Socket[addr=/127.0.0.1,port=12437,localport=9002]
+파일 수신<-- 000007.part Socket[addr=/127.0.0.1,port=9003,localport=12454]
+파일 송신--> 000021.part Socket[addr=/127.0.0.1,port=12437,localport=9002]
+파일 송신--> 000023.part Socket[addr=/127.0.0.1,port=12445,localport=9002]
+9 / 24
+9 / 24
+파일 수신<-- 000006.part Socket[addr=/127.0.0.1,port=9003,localport=12468]
+파일 송신--> 000016.part Socket[addr=/127.0.0.1,port=12445,localport=9002]
+파일 수신<-- 000012.part Socket[addr=/127.0.0.1,port=9000,localport=12453]
+파일 수신<-- 000009.part Socket[addr=/127.0.0.1,port=9003,localport=12468]
+파일 송신--> 000007.part Socket[addr=/127.0.0.1,port=12445,localport=9002]
+파일 송신--> 000009.part Socket[addr=/127.0.0.1,port=12449,localport=9002]
+파일 수신<-- 000013.part Socket[addr=/127.0.0.1,port=9000,localport=12453]
+13 / 24
+파일 수신<-- 000018.part Socket[addr=/127.0.0.1,port=9004,localport=12471]
+파일 송신--> 000006.part Socket[addr=/127.0.0.1,port=12449,localport=9002]
+파일 수신<-- 000010.part Socket[addr=/127.0.0.1,port=9000,localport=12453]
+파일 수신<-- 000008.part Socket[addr=/127.0.0.1,port=9000,localport=12457]
+파일 수신<-- 000004.part Socket[addr=/127.0.0.1,port=9004,localport=12471]
+파일 송신--> 000012.part Socket[addr=/127.0.0.1,port=12449,localport=9002]
+파일 송신--> 000012.part Socket[addr=/127.0.0.1,port=12452,localport=9002]
+17 / 24
+파일 수신<-- 000005.part Socket[addr=/127.0.0.1,port=9000,localport=12457]
+파일 수신<-- 000001.part Socket[addr=/127.0.0.1,port=9004,localport=12471]
+파일 송신--> 000015.part Socket[addr=/127.0.0.1,port=12452,localport=9002]
+파일 수신<-- 000019.part Socket[addr=/127.0.0.1,port=9000,localport=12457]
+20 / 24
+파일 송신--> 000013.part Socket[addr=/127.0.0.1,port=12452,localport=9002]
+파일 송신--> 000004.part Socket[addr=/127.0.0.1,port=12463,localport=9002]
+20 / 24
+20 / 24
+20 / 24
+20 / 24
+파일 수신<-- 000017.part Socket[addr=/127.0.0.1,port=9001,localport=12480]
+파일 송신--> 000013.part Socket[addr=/127.0.0.1,port=12463,localport=9002]
+21 / 24
+파일 송신--> 000001.part Socket[addr=/127.0.0.1,port=12463,localport=9002]
+파일 송신--> 000012.part Socket[addr=/127.0.0.1,port=12466,localport=9002]
+파일 송신--> 000019.part Socket[addr=/127.0.0.1,port=12466,localport=9002]
+21 / 24
+파일 수신<-- 000000.part Socket[addr=/127.0.0.1,port=9001,localport=12492]
+파일 송신--> 000017.part Socket[addr=/127.0.0.1,port=12466,localport=9002]
+22 / 24
+파일 송신--> 000005.part Socket[addr=/127.0.0.1,port=12469,localport=9002]
+파일 송신--> 000000.part Socket[addr=/127.0.0.1,port=12469,localport=9002]
+파일 수신<-- 000020.part Socket[addr=/127.0.0.1,port=9000,localport=12473]
+파일 송신--> 000020.part Socket[addr=/127.0.0.1,port=12486,localport=9002]
+파일 수신<-- 000011.part Socket[addr=/127.0.0.1,port=9000,localport=12473]
+파일 송신--> 000019.part Socket[addr=/127.0.0.1,port=12486,localport=9002]
+24 / 24
+Download Thread-3 종료
+24 / 24
+Download Thread-2 종료
+24 / 24
+Download Thread-4 종료
+File download completed!
+파일 송신--> 000010.part Socket[addr=/127.0.0.1,port=12486,localport=9002]
+파일 송신--> 000008.part Socket[addr=/127.0.0.1,port=12487,localport=9002]
+파일 송신--> 000005.part Socket[addr=/127.0.0.1,port=12487,localport=9002]
+파일 송신--> 000011.part Socket[addr=/127.0.0.1,port=12503,localport=9002]
